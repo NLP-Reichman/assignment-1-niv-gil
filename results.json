@@ -14,7 +14,15 @@
     "en_on_tl": 38830.77,
     "en_on_nl": 27563.65
   },
-  "test_match": "KeyError('source')",
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_3": 31.622009327855498,
+    "en_tl_3": 38830.76565135753,
+    "en_nl_3": 27563.648032955454
+  },
   "test_generate": {
     "english_2_gram": "I amoulpeginShmee bie ae",
     "english_3_gram": "I amit: Lynmkm ways.",
